@@ -1,0 +1,25 @@
+<<<<<<< HEAD
+I like sleeping
+I like chocolate
+=======
+I don't like coffee
+I like snacks
+I like sunset
+>>>>>>> Lisa
+I like swimming
+I like ice cream
+I like playing
+I like barbecue
+<<<<<<< HEAD
+I like milk-tea
+I like flowers
+I like games
+I like laughing
+=======
+I like movies
+I like ball games
+I like wind
+I like dogs
+I like cats
+
+>>>>>>> Lisa
