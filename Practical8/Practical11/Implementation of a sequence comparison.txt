@@ -1,0 +1,12 @@
+Result:
+the BLOSUM matrix shows:
+Between human and mouse, the given protein alignment is 1091;
+between human and ramdon protein, the given protein alignment is -250;
+between mouse and ramdon protein, the given protein alignment is -250.
+In the comparison of amino acid sequences, human's and mouse's single acids have a high similarity of 89.64% that are ientical.
+As control groups, human's and mouse's acid sequences are conpared to a random sequence seperately, but their similarities are both around 5%.
+These data show that human and mice may have a great possibility of relationship in the origin and ancestors.
+But due to many reasons, we evolved into two very different species. In other words, we usually use mice for experiments and research, 
+not only because they are small in size, with less hair and short hair, which makes it easy to see the reaction and easy to operate, 
+but also because the body structure of mice is similar to that of human beings, which is more conducive to research on human beings.
+In my opinion, mice and human could be kind of far far related in the origin of species.
